@@ -1,0 +1,17 @@
+{
+  "ExpandedNodes": [
+    "",
+    "\\TodoApp.Application",
+    "\\TodoApp.Application\\Features",
+    "\\TodoApp.Application\\Features\\Todos",
+    "\\TodoApp.Application\\Features\\Todos\\Commands",
+    "\\TodoApp.Application\\Features\\Todos\\Commands\\DeleteTodo",
+    "\\TodoApp.Application\\Features\\Todos\\Queries",
+    "\\TodoApp.Application\\Features\\Todos\\Queries\\GetTodo",
+    "\\TodoApp.Application\\Features\\Todos\\Validator",
+    "\\TodoApp.Application\\obj",
+    "\\TodoApp.WebAPI"
+  ],
+  "SelectedNode": "\\TodoApp.WebAPI\\Program.cs",
+  "PreviewInSolutionExplorer": false
+}
